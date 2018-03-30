@@ -1,4 +1,4 @@
-# Libraries-in-c
+# Libraries-in-c \n
 Here, libcalculator.a and libcalculator.so are library files created with functions of addition, subtraction, multiplication and division.
 libcalculator.a is static library and libcalculator.so is shared library.
 
